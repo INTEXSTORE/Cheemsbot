@@ -26,8 +26,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['6285822347348','6281318054482'] //ur owner number
 global.ownername = "『▪︎IYANZ」"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
+global.ytname = "GK PUNYA YT YT " //ur yt chanel name
+global.socialm = "APA SAJALAH " //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
@@ -41,9 +41,9 @@ global.reactmoji = "🗿"
 global.ownertag = ['ArullOfc','『▪︎IYANZ」'] //ur owner tag
 global.ownernummenu = ['6285822347348','6281318054482'] //ur owner number in menu and all
 global.watermark = "『▪︎IYANZ」" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5"
-global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
+global.botscript = "https://CARI SENDIRI WOEE SANA"
+global.linkz1 = "https://chat.whatsapp.com"
+global.linkz2 = "https://youtube.com"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/Thumbnail.jpg") //ur thumb pic
@@ -78,14 +78,14 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: '*Khusus Admin*',
-    botAdmin: '*Bot Bukan Admin*',
-    owner: '*Khusus Pemilik Bot*',
-    group: '*Khusus Didalam Group*',
+    admin: '*Maaf Kak Khususs Adminnn*',
+    botAdmin: '*Bot Harus Jadi Admin Dulu Kaichouu*',
+    owner: '*Khusus OWNER Bot Kak Maaf*',
+    group: '*Maaf Kak Khusus Dalam Grup...*',
     private: '*Khusus Chat Private*',
-    bot: '*Khusus Yang Jadibot*',
+    bot: '*Maaf Kak Khusus Yang Jadibot*',
     wait: '*Sabar...Orang sabar disayang janda*',
-    linkm: '*Linknya Mana?*',
+    linkm: '*Haa Mana Linknya Kak..?*',
     error: 'Error!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
